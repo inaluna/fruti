@@ -1,0 +1,10 @@
+{
+  "name": "fruti",
+  "version": "0.0.1",
+  "description": "Platform for families",
+  "main": "main.js",
+  "repository": "git@github.com:inaluna/fruti.git",
+  "author": "Iñigo Sanz Garcia <garsanzi@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
